@@ -38,3 +38,5 @@ Examples: CRISP-DM, SCRUM-DM, SEMMA, etc.
     - Deployment (plan deployment, monitoring and maintenance, produce final report and review project).
 
 80% of the interesting information of a DM project can be extracted using SQL; 20% of hidden information requires more advanced techniques.
+
+### [< Go back](/)
