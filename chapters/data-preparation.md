@@ -58,4 +58,4 @@ Example: a classification model for predicting a client's loan risks is built us
 - **Duplicates:** data objects with the same data or almost the same data (e.g. same person with multiple email addresses), major issue when merging data from heterogeneous sources, it is necessary to deal with duplicate data (deleting it or not);
 - **Inconsistent or incorrect data:** hardest issue to detect, may depend on expert domain knowledge (e.g. 4/11/2000 - 4 Nov. or 11 Apr., city called Shanghai in the United States).
 
-### [< Go back](/)
+### [< Go back](/README.md)
