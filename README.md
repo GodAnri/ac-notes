@@ -11,3 +11,8 @@
 **Descriptive Data Mining**
 1. [Descriptive Modelling](/chapters/descriptive-modelling.md)
 2. [Association Rules](/chapters/association-rules.md)
+
+**Predictive Data Mining**
+1. [Classification: Introduction](/chapters/classification.md)
+2. [Classification: Algorithms](/chapters/classification-algorithms.md)
+3. [Regression](/chapters/regression.md)
