@@ -87,7 +87,7 @@ Set of steps that may be necessary to carry out before any further analysis take
     - Domain-specific mathematical relationship between variables may be important for the task.
 
 ### Feature extraction:
-Extracting features from raw data on which analysis can be performed. It is very application-specific and a very crucial step.
+Extracting features from raw data on which analysis can be performed. It is very application-specific and a very crucial step (e.g. image data: very high-dimensional data that can be represented by pixels, color histograms, etc.).
 
 ### Data cleaning:
 Data may be hard to read or require extra parsing efforts.
