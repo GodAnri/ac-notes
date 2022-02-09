@@ -17,7 +17,7 @@ Obtain a reduced representation of the data set that is much smaller in volume, 
     - n new features;
     - Linear combinations of existing n attributes orthogonal to each other;
     - k << n (a much smaller number of attributes) explains most of the variance in the data.
-- Independent Component Analysis (ICA) vs PCA:
+- Independent Component Analysis (ICA) vs. PCA:
     - Both create linear combinations of the attributes;
     - ICA assumes the original attributes are statistically independent, reduces higher order statistics (e.g. kurtosis) and does not rank components.
 - Multidimensional scaling:
@@ -31,7 +31,7 @@ Obtain a reduced representation of the data set that is much smaller in volume, 
     - Irrelevant attributes (contain no useful information).
 - Filter methods:
     - 2 attributes: remove redundant attributes;
-    - 1 attribute vs target: identify relevant variables.
+    - 1 attribute vs. target: identify relevant variables.
 
 ## Modelling
 ### Dealing with unbalanced classes:

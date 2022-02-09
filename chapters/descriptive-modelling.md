@@ -95,3 +95,5 @@ Obtain a hierarchy of groups where each level represents a possible solution wit
 - Different measures yield different types of clusters:
     - single link: can handle non-elliptical shapes, uses a local merge criterion (distant parts of the clusters and their structure are not taken into account);
     - complete link: biased towards globular clusters, uses a non-local merge criterion, chooses most dissimilar members of the pair of clusters with smallest diameter, is sensitive to noise/outliers.
+
+### [< Go back](/README.md)

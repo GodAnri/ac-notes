@@ -45,3 +45,5 @@ Bias: type of model an algorithm is able to learn given the set of training data
 Variance: variation in model an algorithm is able to learn given different training data (i.e. small changes).
 
 Bias-Variance trade-off: low bias implies high variance and vice-versa; find a model with a good trade-off (not too complex but with good predictive power).
+
+### [< Go back](/README.md)

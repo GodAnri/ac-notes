@@ -55,3 +55,5 @@ Split validation: using different operations for training data and for test data
 ### Evaluate scoring models:
 - Sort prediction by increasing order of belonging to positive class;
 - ROC (Receiver Operating Characteristic) analysis: visualise proportion of TP vs. FP to find best compromise.
+
+### [< Go back](/README.md)

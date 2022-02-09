@@ -84,3 +84,5 @@ Bayesian classifiers use Bayes Theorem, which says that:
 ### SVM for Regression:
 - Minimise the tube "around" the data;
 - Instead of maximising the distance to closest examples from each class.
+
+### [< Go back](/README.md)

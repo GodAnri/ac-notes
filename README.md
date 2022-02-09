@@ -16,3 +16,4 @@
 1. [Classification: Introduction](/chapters/classification.md)
 2. [Classification: Algorithms](/chapters/classification-algorithms.md)
 3. [Regression](/chapters/regression.md)
+4. [Ensemble Learning](/chapters/ensemble-learning.md)
